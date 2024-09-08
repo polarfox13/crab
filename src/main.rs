@@ -1,6 +1,8 @@
 use gtk::prelude::*;
 use gtk::{Button, Label, Window, WindowType};
 
+// a simple rust application
+
 fn main() {
     // Initialize GTK
     gtk::init().expect("Failed to initialize GTK.");
