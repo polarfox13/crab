@@ -10,7 +10,7 @@ fn main() {
     // Create a new window
     let window = Window::new(WindowType::Toplevel);
     window.set_title("Crab");
-    window.set_default_size(500, 600);
+    window.set_default_size(600, 800);
 
     // Create a vertical box to hold the button and label
     let vbox = gtk::Box::new(gtk::Orientation::Vertical, 5);
