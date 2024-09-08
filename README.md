@@ -43,4 +43,6 @@ If you would like to contribute to this project, please feel free to submit a pu
 ## License
 This project is licensed under the [GPL-3.0 License](LICENSE).
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/5abe6899-9ebe-4cfc-bfe6-a2a9b27e37c1)
 
